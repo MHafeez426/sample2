@@ -71,6 +71,7 @@ class _HotelBookingPageState extends State<HotelBookingPage> {
         ],
       ),
       body: ListView(
+
         children: <Widget>[
           Padding(
             padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 20),
